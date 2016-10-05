@@ -1,7 +1,7 @@
 
 name="Black Diamond Build"	
-url="https://archive.org/download/BlackDiamondBuild/diamondbuild.zip"
-img="http://diamondbuild.x10host.com/repo/icon.png"
-fanart="http://diamondbuild.x10host.com/repo/splash.png"
+url="https://archive.org/download/blackdiamondrepo/blackdiamondrepo.zip"
+img="https://github.com/diamondbuild/blackdiamondbuild/blob/master/icon.png"
+fanart="https://github.com/diamondbuild/blackdiamondbuild/blob/master/splash.png"
 description="V1.0"
 
